@@ -1,0 +1,13 @@
+﻿backend/venv/
+backend/downloads/
+backend/clips/
+backend/shorts/
+backend/captioned/
+backend/final_shorts/
+backend/subtitles/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.vscode/
+*.log
